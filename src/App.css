@@ -7,9 +7,11 @@
   justify-content: space-around;
   padding: 20px 0;
   background-color: bisque;
+  font-family: 'Dancing Script', cursive;
 }
 
 .logo{
+  margin: 0;
 }
 
 .navegation{
