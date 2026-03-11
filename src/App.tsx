@@ -8,9 +8,9 @@ function App() {
         <h1 className='logo'>Juliana</h1>
 
         <nav className='navegation'>
-          <a href='#about'>About</a>
-          <a href='#projects'>Projects</a>
-          <a href='#contact'>Contact</a>
+          <a href='#about'>Sobre mi</a>
+          <a href='#projects'>Proyectos</a>
+          <a href='#contact'>Contacto</a>
         </nav>
       </header>
     </>
