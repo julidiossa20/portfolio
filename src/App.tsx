@@ -13,6 +13,17 @@ function App() {
           <a href='#contact'>Contacto</a>
         </nav>
       </header>
+
+      <main>
+        <section>
+          <h2>Sobre mi</h2>
+          <p>
+            Soy desarrolladora web en formación especializada en React,
+            enfocada en crear aplicaciones SPA con componentes reutilizables y
+            código limpio.
+          </p>
+        </section>
+      </main>
     </>
   )
 }
