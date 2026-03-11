@@ -33,6 +33,15 @@ function App() {
             </ul>
           </p>
         </section>
+
+        <section id='contact'>
+          <h2>Contacto</h2>
+          <ul>
+            <li>correo:</li>
+            <li>telefono:</li>
+          </ul>
+
+        </section>
       </main>
     </>
   )
