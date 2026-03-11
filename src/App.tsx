@@ -23,6 +23,16 @@ function App() {
             código limpio.
           </p>
         </section>
+
+        <section id='projects'>
+          <h2>Proyectos</h2>
+          <p>
+            <ul>
+              <li>Perros</li>
+              <li>portafolio</li>
+            </ul>
+          </p>
+        </section>
       </main>
     </>
   )
