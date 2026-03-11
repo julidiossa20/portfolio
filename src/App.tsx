@@ -13,6 +13,44 @@ function App() {
           <a href='#contact'>Contacto</a>
         </nav>
       </header>
+
+      <main>
+        <section>
+          <h2>Sobre mi</h2>
+          <p>
+            Soy desarrolladora web en formación especializada en React,
+            enfocada en crear aplicaciones SPA con componentes reutilizables y
+            código limpio.
+          </p>
+        </section>
+
+        <section id='projects'>
+          <h2>Proyectos</h2>
+          <p>
+            <ul>
+              <li>Perros</li>
+              <li>portafolio</li>
+            </ul>
+          </p>
+        </section>
+
+        <section id='contact'>
+          <h2>Contacto</h2>
+          <ul>
+            <li>correo:</li>
+            <li>telefono:</li>
+          </ul>
+
+        </section>
+      </main>
+
+      <footer>
+        <ul>
+          <li>github</li>
+          <li>linkedin</li>
+          <li>correo</li>
+        </ul>
+      </footer>
     </>
   )
 }
