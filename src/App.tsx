@@ -43,6 +43,14 @@ function App() {
 
         </section>
       </main>
+
+      <footer>
+        <ul>
+          <li>github</li>
+          <li>linkedin</li>
+          <li>correo</li>
+        </ul>
+      </footer>
     </>
   )
 }
